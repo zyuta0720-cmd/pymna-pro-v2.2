@@ -3,6 +3,7 @@
 **「部品のバラツキによる『回路のワースト状態』を、数学とグラフで未然に防ぐ設計支援ツール」**
  
 **Design Support Tool: Using Mathematics and Graphs to Prevent "Worst-Case Circuit Failures" Caused by Component Variations.**
+<img width="1913" height="1150" alt="image" src="https://github.com/user-attachments/assets/8c057a77-69c8-4798-a71b-b52c31740398" />
 
 【このプログラムができること / What This Program Does】
   
