@@ -105,6 +105,5 @@ This project is licensed under the **MIT License**. See the [LICENSE](https://ww
 -----
 
 **Developer:** Zyutama  
-**Field:** Automotive Hardware Engineering (ECU Design / WCA)
 
 -----
